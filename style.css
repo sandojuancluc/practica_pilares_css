@@ -1,0 +1,29 @@
+body{ 
+    background-color: bisque;
+}
+/*.card_product {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tag_product {
+     color: red;
+
+}
+
+.wrapper_card { 
+    color: yellow;
+    font-size: 50px;
+} */
+#prioridad_4 {
+    background-color: pink;
+}
+
+li {
+    background-color: saddlebrown !important;
+
+}
+
+.wrapper_card p {
+    background-color: blueviolet; 
+}
